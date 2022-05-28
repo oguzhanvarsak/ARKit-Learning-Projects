@@ -1,0 +1,17 @@
+[
+  {
+    "libraryIdentifier" : "c08a038931bb8b1e4dff5173af3c1acb",
+    "format" : "model",
+    "displayName" : "toy_car.usdz"
+  },
+  {
+    "libraryIdentifier" : "364ad193e9cdde8f344d200495a12aca",
+    "format" : "model",
+    "displayName" : "toy_biplane.usdz"
+  },
+  {
+    "libraryIdentifier" : "302dbe118ca1f67a7bba68567301a47c",
+    "format" : "model",
+    "displayName" : "earth.usdz"
+  }
+]
